@@ -1,5 +1,11 @@
 <h1>Hi 👋, I'm Cesar Tellechea</h1>
-<p>Data Scientist 👨‍💻</p>
+<p>🚀 Enthusiastic Data Scientist with over 10 years of continuous learning in diverse tech skills. My passion for technology and strong technical foundation have led me to specialize in data analysis and machine learning, diving deep into the fascinating world of Data Science and AI 🤖.
+
+Currently, I apply my skills working with Python 🐍, and tools like Pandas 📊, Scikit-Learn 🤖, Seaborn 🌈, Numpy 🔢, and SQL 💾, focusing on Data Prep, Data Modeling, Exploratory Data Analysis, Machine Learning, and AI. I'm always tackling complex problems and building innovative solutions 💡.
+
+I believe in inclusion and creating collaborative spaces where everyone belongs 🙌. As a tech professional with a computing background and an empathetic approach, I'm social, adaptable, and equipped with both technical and soft skills. These abilities enable me to drive success in collaborative projects, build strong relationships, and lead teams 🚀.
+
+On my ongoing journey of learning and growth, I'm open to opportunities where I can apply my tech expertise and contribute to innovative projects aligned with my values. Ready to turn challenges into opportunities and take on new adventures! 🌟</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a>
