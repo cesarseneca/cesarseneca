@@ -1,1 +1,112 @@
-<h1>Hi 👋, I'm Cesar Tellechea</h1> <p>🚀 I'm a passionate Data Scientist with over 10 years of continuous learning in the ever-evolving tech world. With a strong technical foundation and a deep love for data science and AI 🤖, I've specialized in data analysis and machine learning to solve complex problems and create innovative solutions. Always eager to learn, grow, and dive into new challenges! 💡</p> <p>Currently, I work with Python 🐍, and tools like Pandas 📊, Scikit-learn 🤖, Numpy 🔢, Seaborn 🌈, SQL 💾, focusing on Data Preparation, Modeling, Exploratory Data Analysis, Machine Learning, and AI. I thrive on transforming raw data into actionable insights and building scalable models for data-driven decision making 🚀.</p> <p>I'm passionate about creating inclusive and collaborative spaces where everyone belongs 🙌. My computing background and empathetic approach allow me to connect with teams, lead innovative projects, and drive success. I'm ready to tackle any challenge and turn it into an opportunity for growth! 🌟</p> <h2>🚀 Languages and Tools I Use</h2> <p> <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a> <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a> <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a> <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a> <a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a> </p> <h2>⚡️ Where to find me</h2> <p><a target="_blank" href="https://www.linkedin.com/in/cesarseneca" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarseneca&show_icons=true&locale=en&layout=compact" alt="cesarseneca" /></p> 
+<!-- GIF de presentación -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNxY2lpNnp3dHpzamR2YTd2Ynhtc2NmZWtpNnJkN2dicmg1bG84YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BOOyywoZerTGp90YPN/giphy.gif" 
+     alt="Welcome GIF" 
+     style="display: block; margin: 0 auto;" 
+     width="60%">
+
+<h1 style="text-align: right;"> 👋🏻I'm Cesar Tellechea</h1>
+
+<!-- Descripción principal -->
+<p>
+Data Scientist with experience in data analysis 📊, predictive model development 🤖, and results visualization 📈. Skilled in Python 🐍, SQL 💾, and tools like Pandas 🐼, Scikit-learn 🤖, and Matplotlib 📉.
+</p>
+
+<h2>🚀 Languages and Tools I Use</h2>
+
+<h3>Programming Languages</h3>
+<p>
+  <a target="_blank" href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  </a>
+  <a target="_blank" href="https://www.sql.org/">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="sql" />
+  </a>
+  <a target="_blank" href="https://www.oracle.com/java/">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java" />
+  </a>
+  <a target="_blank" href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c" />
+  </a>
+</p>
+
+<h3>Libraries</h3>
+<p>
+  <a target="_blank" href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  </a>
+  <a target="_blank" href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
+  </a>
+  <a target="_blank" href="https://www.tensorflow.org/">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
+  </a>
+  <a target="_blank" href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  </a>
+</p>
+
+<h3>Databases</h3>
+<p>
+  <a target="_blank" href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  </a>
+  <a target="_blank" href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  </a>
+</p>
+
+<h3>Data Visualization</h3>
+<p>
+  <a target="_blank" href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white" alt="matplotlib" />
+  </a>
+  <a target="_blank" href="https://seaborn.pydata.org/">
+    <img src="https://img.shields.io/badge/Seaborn-9C1D27?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn" />
+  </a>
+  <a target="_blank" href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B6B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" />
+  </a>
+  <a target="_blank" href="https://looker.com/">
+    <img src="https://img.shields.io/badge/Looker-1A3E56?style=for-the-badge&logo=looker&logoColor=white" alt="looker" />
+  </a>
+  <a target="_blank" href="https://plotly.com/">
+    <img src="https://img.shields.io/badge/Plotly-3F4E6F?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" />
+  </a>
+</p>
+
+<h3>Tools & Development</h3>
+<p>
+  <a target="_blank" href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a target="_blank" href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  </a>
+  <a target="_blank" href="https://docs.github.com/en/rest">
+    <img src="https://img.shields.io/badge/APIs-181717?style=for-the-badge&logo=github&logoColor=white" alt="apis" />
+  </a>
+</p>
+
+
+<h2>⚡️ Where to find me</h2>
+
+<!-- Redes sociales -->
+<p>
+  <a href="https://www.linkedin.com/in/cesarseneca" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<!-- Estadísticas de GitHub -->
+<h3>GitHub Stats</h3>
+<p>
+  <a href="https://github.com/cesarseneca" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=cesarseneca&show_icons=true&theme=radical" alt="cesarseneca's GitHub Stats" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/cesarseneca" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarseneca&show_icons=true&theme=radical&locale=en&layout=compact" alt="cesarseneca's Top Languages" />
+  </a>
+</p>
+
